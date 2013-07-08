@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>net.vrallev.android.library</groupId>
-  <artifactId>Crouton</artifactId>
+  <artifactId>crouton-extension</artifactId>
   <version>1.0.0</version>
   <versioning>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20130708163037</lastUpdated>
+    <lastUpdated>20130708175232</lastUpdated>
   </versioning>
 </metadata>
