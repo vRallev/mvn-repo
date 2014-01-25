@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.opencv</groupId>
+  <artifactId>opencv-android</artifactId>
+  <version>2.4.8</version>
+  <packaging>aar</packaging>
+  <name>OpenCV Android Library</name>
+  <description>The OpenCV Java project for Android.</description>
+  <url>https://github.com/vRallev/OpenCV</url>
+  <scm>
+    <connection>scm:git@github.com:vRallev/OpenCV.git</connection>
+    <developerConnection>scm:git@github.com:vRallev/OpenCV.git</developerConnection>
+    <url>https://github.com/vRallev/OpenCV</url>
+  </scm>
+</project>
