@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.facebook.crypto</groupId>
+  <artifactId>conceal</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <name>facebook Conceal</name>
+  <description>Conceal provides a set of Java APIs to perform cryptography on Android. It was designed to be able to encrypt large files on disk in a fast and memory efficient manner.</description>
+  <url>https://github.com/facebook/conceal</url>
+  <scm>
+    <connection>scm:git@github.com:facebook/conceal.git</connection>
+    <developerConnection>scm:git@github.com:facebook/conceal.git</developerConnection>
+    <url>scm:git@github.com:facebook/conceal.git</url>
+  </scm>
+</project>
