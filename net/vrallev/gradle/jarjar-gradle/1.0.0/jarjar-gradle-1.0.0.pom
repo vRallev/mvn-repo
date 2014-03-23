@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.vrallev.gradle</groupId>
+  <artifactId>jarjar-gradle</artifactId>
+  <version>1.0.0</version>
+  <name>JarJar Gradle Plugin</name>
+  <description>A helper plugin to use the jarjar tool.</description>
+  <url>https://github.com/vRallev/jarjar-gradle</url>
+  <developers>
+    <developer>
+      <id>Ralf Wondratschek</id>
+      <name>Ralf Wondratschek</name>
+      <email>r.wondr@gmail.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>https://github.com/vRallev/jarjar-gradle.git</connection>
+    <developerConnection>https://github.com/vRallev/jarjar-gradle.git</developerConnection>
+    <url>https://github.com/vRallev/jarjar-gradle.git</url>
+  </scm>
+</project>
