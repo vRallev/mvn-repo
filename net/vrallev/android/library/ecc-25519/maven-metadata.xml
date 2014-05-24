@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.vrallev.android.library</groupId>
+  <artifactId>ecc-25519</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20140524171125</lastUpdated>
+  </versioning>
+</metadata>
