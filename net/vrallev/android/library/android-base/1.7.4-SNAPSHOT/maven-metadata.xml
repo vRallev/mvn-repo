@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.vrallev.android.library</groupId>
+  <artifactId>android-base</artifactId>
+  <version>1.7.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140729.104946</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140729104946</lastUpdated>
+  </versioning>
+</metadata>
